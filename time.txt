@@ -1,0 +1,271 @@
+0 The average travel time from OXFORD CIRCUS to any other station is 20.2597416974 minutes 
+1 The average travel time from BOND STREET to any other station is 20.3673800738 minutes 
+2 The average travel time from GREEN PARK to any other station is 20.3848339483 minutes 
+3 The average travel time from TOTTENHAM COURT ROAD to any other station is 20.7663468635 minutes 
+4 The average travel time from WESTMINSTER to any other station is 21.0203321033 minutes 
+5 The average travel time from PICCADILLY CIRCUS to any other station is 21.0230627306 minutes 
+6 The average travel time from LEICESTER SQUARE to any other station is 21.1351660517 minutes 
+7 The average travel time from MARBLE ARCH to any other station is 21.1813284133 minutes 
+8 The average travel time from VICTORIA to any other station is 21.2501845018 minutes 
+9 The average travel time from REGENTS PARK to any other station is 21.2890774908 minutes 
+10 The average travel time from BAKER STREET to any other station is 21.3019926199 minutes 
+11 The average travel time from HOLBORN to any other station is 21.472804428 minutes 
+12 The average travel time from CHARING CROSS to any other station is 21.5400369004 minutes 
+13 The average travel time from EMBANKMENT to any other station is 21.5671217712 minutes 
+14 The average travel time from COVENT GARDEN to any other station is 21.5815867159 minutes 
+15 The average travel time from WARREN STREET to any other station is 21.5857195572 minutes 
+16 The average travel time from WATERLOO to any other station is 21.6894095941 minutes 
+17 The average travel time from HYDE PARK CORNER to any other station is 21.7664944649 minutes 
+18 The average travel time from ST JAMES PARK to any other station is 21.860701107 minutes 
+19 The average travel time from GOODGE STREET to any other station is 21.9237269373 minutes 
+20 The average travel time from CHANCERY LANE to any other station is 21.9785239852 minutes 
+21 The average travel time from EUSTON to any other station is 22.016900369 minutes 
+22 The average travel time from MARYLEBONE to any other station is 22.1114760148 minutes 
+23 The average travel time from SLOANE SQUARE to any other station is 22.302103321 minutes 
+24 The average travel time from LANCASTER GATE to any other station is 22.4557195572 minutes 
+25 The average travel time from GREAT PORTLAND STREET to any other station is 22.4724723247 minutes 
+26 The average travel time from KINGS CROSS to any other station is 22.5353874539 minutes 
+27 The average travel time from SOUTHWARK to any other station is 22.5372324723 minutes 
+28 The average travel time from KNIGHTSBRIDGE to any other station is 22.6339852399 minutes 
+29 The average travel time from EDGWARE ROAD to any other station is 22.6772693727 minutes 
+30 The average travel time from ST PAULS to any other station is 22.750701107 minutes 
+31 The average travel time from BANK to any other station is 22.7877490775 minutes 
+32 The average travel time from RUSSELL SQUARE to any other station is 22.8196678967 minutes 
+33 The average travel time from MOORGATE to any other station is 22.9670479705 minutes 
+34 The average travel time from PIMLICO to any other station is 23.0360885609 minutes 
+35 The average travel time from QUEENSWAY to any other station is 23.0994464945 minutes 
+36 The average travel time from SOUTH KENSINGTON to any other station is 23.1381918819 minutes 
+37 The average travel time from EUSTON SQUARE to any other station is 23.2277121771 minutes 
+38 The average travel time from LIVERPOOL STREET to any other station is 23.3918819188 minutes 
+39 The average travel time from TEMPLE to any other station is 23.4211808118 minutes 
+40 The average travel time from LONDON BRIDGE to any other station is 23.4469372694 minutes 
+41 The average travel time from PADDINGTON to any other station is 23.5652767528 minutes 
+42 The average travel time from NOTTING HILL GATE to any other station is 23.6018081181 minutes 
+43 The average travel time from LAMBETH NORTH to any other station is 23.628597786 minutes 
+44 The average travel time from BARBICAN to any other station is 23.6491143911 minutes 
+45 The average travel time from MORNINGTON CRESCENT to any other station is 23.6921771218 minutes 
+46 The average travel time from ANGEL to any other station is 23.7164944649 minutes 
+47 The average travel time from GLOUCESTER ROAD to any other station is 23.7329520295 minutes 
+48 The average travel time from ST JOHNS WOOD to any other station is 23.9749446494 minutes 
+49 The average travel time from KINGS CROSS ST PANCRAS to any other station is 24.0812915129 minutes 
+50 The average travel time from FARRINGDON to any other station is 24.1167527675 minutes 
+51 The average travel time from OLD STREET to any other station is 24.1523247232 minutes 
+52 The average travel time from VAUXHALL to any other station is 24.3677490775 minutes 
+53 The average travel time from BAYSWATER to any other station is 24.4973800738 minutes 
+54 The average travel time from BLACKFRIARS to any other station is 24.5520664207 minutes 
+55 The average travel time from EARLS COURT to any other station is 24.5701845018 minutes 
+56 The average travel time from HOLLAND PARK to any other station is 24.605904059 minutes 
+57 The average travel time from BOROUGH to any other station is 24.7677490775 minutes 
+58 The average travel time from HIGH STREET KENSINGTON to any other station is 24.9497785978 minutes 
+59 The average travel time from CAMDEN TOWN to any other station is 24.959704797 minutes 
+60 The average travel time from ELEPHANT & CASTLE to any other station is 25.0444649446 minutes 
+61 The average travel time from KENNINGTON to any other station is 25.1645387454 minutes 
+62 The average travel time from ROYAL OAK to any other station is 25.1754612546 minutes 
+63 The average travel time from FINCHLEY ROAD to any other station is 25.2217712177 minutes 
+64 The average travel time from BETHNAL GREEN to any other station is 25.2759778598 minutes 
+65 The average travel time from ALDGATE to any other station is 25.2988929889 minutes 
+66 The average travel time from WARWICK AVENUE to any other station is 25.3733948339 minutes 
+67 The average travel time from SWISS COTTAGE to any other station is 25.3853505535 minutes 
+68 The average travel time from MANSION HOUSE to any other station is 25.454501845 minutes 
+69 The average travel time from BERMONDSEY to any other station is 25.5091512915 minutes 
+70 The average travel time from SHEPHERDS BUSH to any other station is 25.5922878229 minutes 
+71 The average travel time from HIGHBURY to any other station is 25.6434317343 minutes 
+72 The average travel time from CALEDONIAN ROAD to any other station is 25.6993357934 minutes 
+73 The average travel time from WEST KENSINGTON to any other station is 25.88099631 minutes 
+74 The average travel time from ALDGATE EAST to any other station is 25.93099631 minutes 
+75 The average travel time from WEST BROMPTON to any other station is 25.9816236162 minutes 
+76 The average travel time from CANNON STREET to any other station is 25.9952398524 minutes 
+77 The average travel time from BARONS COURT to any other station is 26.1158671587 minutes 
+78 The average travel time from STOCKWELL to any other station is 26.1943911439 minutes 
+79 The average travel time from HAMMERSMITH to any other station is 26.2942804428 minutes 
+80 The average travel time from GOLDHAWK ROAD to any other station is 26.3613284133 minutes 
+81 The average travel time from WESTBOURNE PARK to any other station is 26.4324723247 minutes 
+82 The average travel time from MONUMENT to any other station is 26.4885608856 minutes 
+83 The average travel time from OVAL to any other station is 26.6397416974 minutes 
+84 The average travel time from WEST HAMPSTEAD to any other station is 26.6664206642 minutes 
+85 The average travel time from MILE END to any other station is 26.6699630996 minutes 
+86 The average travel time from CANADA WATER to any other station is 26.725904059 minutes 
+87 The average travel time from MAIDA VALE to any other station is 26.7405535055 minutes 
+88 The average travel time from TOWER HILL to any other station is 26.9674907749 minutes 
+89 The average travel time from HOLLOWAY ROAD to any other station is 27.0236531365 minutes 
+90 The average travel time from LATIMER ROAD to any other station is 27.1007749077 minutes 
+91 The average travel time from LADBROKE GROVE to any other station is 27.2515498155 minutes 
+92 The average travel time from FULHAM BROADWAY to any other station is 27.4041328413 minutes 
+93 The average travel time from CHALK FARM to any other station is 27.4056826568 minutes 
+94 The average travel time from WHITECHAPEL to any other station is 27.4585239852 minutes 
+95 The average travel time from ROTHERHITHE to any other station is 27.4638745387 minutes 
+96 The average travel time from KENSINGTON to any other station is 27.5480442804 minutes 
+97 The average travel time from CLAPHAM NORTH to any other station is 27.5947601476 minutes 
+98 The average travel time from KENTISH TOWN to any other station is 27.7896678967 minutes 
+99 The average travel time from BOW ROAD to any other station is 27.9748339483 minutes 
+100 The average travel time from WHITE CITY to any other station is 28.0672324723 minutes 
+101 The average travel time from RAVENSCOURT PARK to any other station is 28.1909594096 minutes 
+102 The average travel time from SURREY QUAYS to any other station is 28.1926937269 minutes 
+103 The average travel time from FINSBURY PARK to any other station is 28.1936162362 minutes 
+104 The average travel time from ARSENAL to any other station is 28.357601476 minutes 
+105 The average travel time from WAPPING to any other station is 28.3864206642 minutes 
+106 The average travel time from STEPNEY GREEN to any other station is 28.394095941 minutes 
+107 The average travel time from KILBURN PARK to any other station is 28.5781918819 minutes 
+108 The average travel time from SHADWELL to any other station is 28.6719926199 minutes 
+109 The average travel time from BRIXTON to any other station is 28.6759409594 minutes 
+110 The average travel time from CLAPHAM COMMON to any other station is 29.006199262 minutes 
+111 The average travel time from KILBURN to any other station is 29.0329520295 minutes 
+112 The average travel time from CANARY WHARF to any other station is 29.118302583 minutes 
+113 The average travel time from TUFNELL PARK to any other station is 29.1789667897 minutes 
+114 The average travel time from STAMFORD BROOK to any other station is 29.194095941 minutes 
+115 The average travel time from BELSIZE PARK to any other station is 29.287601476 minutes 
+116 The average travel time from PARSONS GREEN to any other station is 29.3155719557 minutes 
+117 The average travel time from STRATFORD to any other station is 29.3266420664 minutes 
+118 The average travel time from SHOREDITCH to any other station is 29.4437638376 minutes 
+119 The average travel time from BROMLEY BY BOW to any other station is 29.7223616236 minutes 
+120 The average travel time from QUEENS PARK to any other station is 29.9674907749 minutes 
+121 The average travel time from MANOR HOUSE to any other station is 30.0755350554 minutes 
+122 The average travel time from ACTON TOWN to any other station is 30.109298893 minutes 
+123 The average travel time from TURNHAM GREEN to any other station is 30.4507380074 minutes 
+124 The average travel time from EAST ACTON to any other station is 30.5254243542 minutes 
+125 The average travel time from ARCHWAY to any other station is 30.5793357934 minutes 
+126 The average travel time from WILLESDEN GREEN to any other station is 30.8026568266 minutes 
+127 The average travel time from WEMBLEY PARK to any other station is 30.8333579336 minutes 
+128 The average travel time from WEST HAM to any other station is 31.0977121771 minutes 
+129 The average travel time from HAMPSTEAD to any other station is 31.1842804428 minutes 
+130 The average travel time from NORTH GREENWICH to any other station is 31.3720664207 minutes 
+131 The average travel time from CLAPHAM SOUTH to any other station is 31.3770479705 minutes 
+132 The average travel time from EALING COMMON to any other station is 31.4188191882 minutes 
+133 The average travel time from NORTH ACTON to any other station is 31.6150553506 minutes 
+134 The average travel time from NEW CROSS GATE to any other station is 31.6668634686 minutes 
+135 The average travel time from LEYTON to any other station is 31.6707380074 minutes 
+136 The average travel time from CHISWICK PARK to any other station is 31.6920664207 minutes 
+137 The average travel time from PUTNEY BRIDGE to any other station is 31.7233210332 minutes 
+138 The average travel time from SEVEN SISTERS to any other station is 32.0755350554 minutes 
+139 The average travel time from NEW CROSS to any other station is 32.1631734317 minutes 
+140 The average travel time from DOLLIS HILL to any other station is 32.3506642066 minutes 
+141 The average travel time from PLAISTOW to any other station is 32.4648708487 minutes 
+142 The average travel time from PRESTON ROAD to any other station is 32.5649815498 minutes 
+143 The average travel time from CANNING TOWN to any other station is 32.5967527675 minutes 
+144 The average travel time from HARROW-ON-THE-HILL to any other station is 32.7051291513 minutes 
+145 The average travel time from TURNPIKE LANE to any other station is 32.9205535055 minutes 
+146 The average travel time from NORTH EALING to any other station is 33.2466789668 minutes 
+147 The average travel time from BALHAM to any other station is 33.2884870849 minutes 
+148 The average travel time from HIGHGATE to any other station is 33.4022140221 minutes 
+149 The average travel time from NEASDEN to any other station is 33.4474538745 minutes 
+150 The average travel time from WEST ACTON to any other station is 33.4583394834 minutes 
+151 The average travel time from GUNNERSBURY to any other station is 33.53099631 minutes 
+152 The average travel time from EAST PUTNEY to any other station is 33.6642804428 minutes 
+153 The average travel time from EALING BROADWAY to any other station is 33.8870848708 minutes 
+154 The average travel time from SOUTH EALING to any other station is 33.9463099631 minutes 
+155 The average travel time from WEST HARROW to any other station is 34.0240590406 minutes 
+156 The average travel time from LEYTONSTONE to any other station is 34.0867158672 minutes 
+157 The average travel time from NORTHWICK PARK to any other station is 34.1780073801 minutes 
+158 The average travel time from UPTON PARK to any other station is 34.3025092251 minutes 
+159 The average travel time from KENSAL GREEN to any other station is 34.3739852399 minutes 
+160 The average travel time from GOLDERS GREEN to any other station is 34.529298893 minutes 
+161 The average travel time from TOTTENHAM HALE to any other station is 34.7842066421 minutes 
+162 The average travel time from WOOD GREEN to any other station is 34.8319926199 minutes 
+163 The average travel time from HANGER LANE to any other station is 34.8773431734 minutes 
+164 The average travel time from PARK ROYAL to any other station is 35.0131734317 minutes 
+165 The average travel time from TOOTING BEC to any other station is 35.2146863469 minutes 
+166 The average travel time from NORTHFIELDS to any other station is 35.3577490775 minutes 
+167 The average travel time from KINGSBURY to any other station is 35.4237269373 minutes 
+168 The average travel time from RAYNERS LANE to any other station is 35.5022140221 minutes 
+169 The average travel time from NORTH HARROW to any other station is 35.5575276753 minutes 
+170 The average travel time from KEW GARDENS to any other station is 35.994095941 minutes 
+171 The average travel time from SOUTHFIELDS to any other station is 36.1089298893 minutes 
+172 The average travel time from SNARESBROOK to any other station is 36.1374538745 minutes 
+173 The average travel time from EAST HAM to any other station is 36.1549077491 minutes 
+174 The average travel time from WANSTEAD to any other station is 36.2232841328 minutes 
+175 The average travel time from EAST FINCHLEY to any other station is 36.2472324723 minutes 
+176 The average travel time from WILLESDEN JUNCTION to any other station is 36.7263837638 minutes 
+177 The average travel time from ALPERTON to any other station is 36.7759778598 minutes 
+178 The average travel time from PERIVALE to any other station is 37.0277121771 minutes 
+179 The average travel time from BLACKHORSE ROAD to any other station is 37.1093726937 minutes 
+180 The average travel time from TOOTING BROADWAY to any other station is 37.1556457565 minutes 
+181 The average travel time from BOUNDS GREEN to any other station is 37.2397416974 minutes 
+182 The average travel time from QUEENSBURY to any other station is 37.3794464945 minutes 
+183 The average travel time from BRENT CROSS to any other station is 37.4474907749 minutes 
+184 The average travel time from SOUTH HARROW to any other station is 37.6399630996 minutes 
+185 The average travel time from SOUTH WOODFORD to any other station is 37.7417712177 minutes 
+186 The average travel time from PINNER to any other station is 37.8545756458 minutes 
+187 The average travel time from EASTCOTE to any other station is 37.9106273063 minutes 
+188 The average travel time from REDBRIDGE to any other station is 38.1201107011 minutes 
+189 The average travel time from SUDBURY TOWN to any other station is 38.4511439114 minutes 
+190 The average travel time from SUDBURY HILL to any other station is 38.5395571956 minutes 
+191 The average travel time from WIMBLEDON PARK to any other station is 38.5720295203 minutes 
+192 The average travel time from HARLESDEN to any other station is 38.8411808118 minutes 
+193 The average travel time from BARKING to any other station is 38.9556457565 minutes 
+194 The average travel time from WALTHAMSTOW to any other station is 39.0946125461 minutes 
+195 The average travel time from COLLIERS WOOD to any other station is 39.1113653137 minutes 
+196 The average travel time from GREENFORD to any other station is 39.2717343173 minutes 
+197 The average travel time from HENDON CENTRAL to any other station is 39.3884501845 minutes 
+198 The average travel time from RICHMOND to any other station is 39.5377490775 minutes 
+199 The average travel time from BOSTON MANOR to any other station is 39.5873431734 minutes 
+200 The average travel time from FINCHLEY CENTRAL to any other station is 39.5922509225 minutes 
+201 The average travel time from GANTS HILL to any other station is 39.7798523985 minutes 
+202 The average travel time from RUISLIP MANOR to any other station is 39.8368265683 minutes 
+203 The average travel time from CANONS PARK to any other station is 39.8425461255 minutes 
+204 The average travel time from WOODFORD to any other station is 39.884501845 minutes 
+205 The average travel time from NORTHWOOD HILLS to any other station is 40.1700738007 minutes 
+206 The average travel time from ARNOS GROVE to any other station is 40.7528782288 minutes 
+207 The average travel time from SOUTH WIMBLEDON to any other station is 41.0818450185 minutes 
+208 The average travel time from STONEBRIDGE PARK to any other station is 41.1349077491 minutes 
+209 The average travel time from NORTHOLT to any other station is 41.2126937269 minutes 
+210 The average travel time from RUISLIP to any other station is 41.2925461255 minutes 
+211 The average travel time from UPNEY to any other station is 41.458597786 minutes 
+212 The average travel time from MOOR PARK to any other station is 41.5040221402 minutes 
+213 The average travel time from WIMBLEDON to any other station is 41.5697416974 minutes 
+214 The average travel time from STANMORE to any other station is 41.8277859779 minutes 
+215 The average travel time from BUCKHURST HILL to any other station is 42.2922509225 minutes 
+216 The average travel time from COLINDALE to any other station is 42.3220295203 minutes 
+217 The average travel time from OSTERLEY to any other station is 42.454501845 minutes 
+218 The average travel time from NORTHWOOD to any other station is 42.5040221402 minutes 
+219 The average travel time from RODING VALLEY to any other station is 42.5264944649 minutes 
+220 The average travel time from WEST FINCHLEY to any other station is 42.6298523985 minutes 
+221 The average travel time from NEWBURY PARK to any other station is 42.6894464945 minutes 
+222 The average travel time from MILL HILL EAST to any other station is 42.8381180812 minutes 
+223 The average travel time from SOUTHGATE to any other station is 43.2170848708 minutes 
+224 The average travel time from SOUTH RUISLIP to any other station is 43.7355719557 minutes 
+225 The average travel time from ICKENHAM to any other station is 43.737195572 minutes 
+226 The average travel time from BECONTREE to any other station is 43.8294464945 minutes 
+227 The average travel time from WOODSIDE PARK to any other station is 44.0966420664 minutes 
+228 The average travel time from WEMBLEY CENTRAL to any other station is 44.1494095941 minutes 
+229 The average travel time from BARKINGSIDE to any other station is 44.3181180812 minutes 
+230 The average travel time from HOUNSLOW EAST to any other station is 44.380701107 minutes 
+231 The average travel time from MORDEN to any other station is 44.6056457565 minutes 
+232 The average travel time from LOUGHTON to any other station is 44.7475645756 minutes 
+233 The average travel time from BURNT OAK to any other station is 44.7851291513 minutes 
+234 The average travel time from CHIGWELL to any other station is 45.1610701107 minutes 
+235 The average travel time from RUISLIP GARDENS to any other station is 45.2134317343 minutes 
+236 The average travel time from HILLINGDON to any other station is 45.7076752768 minutes 
+237 The average travel time from HOUNSLOW CENTRAL to any other station is 45.8364206642 minutes 
+238 The average travel time from CROXLEY to any other station is 45.937601476 minutes 
+239 The average travel time from FAIRLOP to any other station is 46.0051291513 minutes 
+240 The average travel time from NORTH WEMBLEY to any other station is 46.148597786 minutes 
+241 The average travel time from DAGENHAM HEATHWAY to any other station is 46.2187453875 minutes 
+242 The average travel time from RICKMANSWORTH to any other station is 46.3195202952 minutes 
+243 The average travel time from TOTTERIDGE & WHETSTONE to any other station is 46.5597416974 minutes 
+244 The average travel time from DEBDEN to any other station is 46.9184132841 minutes 
+245 The average travel time from GRANGE HILL to any other station is 47.057896679 minutes 
+246 The average travel time from OAKWOOD to any other station is 47.0595202952 minutes 
+247 The average travel time from EDGWARE to any other station is 47.2666789668 minutes 
+248 The average travel time from SOUTH KENTON to any other station is 47.6153874539 minutes 
+249 The average travel time from WEST RUISLIP to any other station is 47.7644649446 minutes 
+250 The average travel time from DAGENHAM EAST to any other station is 48.1449446494 minutes 
+251 The average travel time from HOUNSLOW WEST to any other station is 48.2810701107 minutes 
+252 The average travel time from UXBRIDGE to any other station is 48.6855350554 minutes 
+253 The average travel time from HAINAULT to any other station is 48.8504059041 minutes 
+254 The average travel time from WATFORD to any other station is 49.5110332103 minutes 
+255 The average travel time from KENTON to any other station is 49.5858671587 minutes 
+256 The average travel time from THEYDON BOIS to any other station is 49.8741328413 minutes 
+257 The average travel time from HIGH BARNET to any other station is 50.0339114391 minutes 
+258 The average travel time from COCKFOSTERS to any other station is 50.0373800738 minutes 
+259 The average travel time from CHORLEYWOOD to any other station is 50.2014391144 minutes 
+260 The average travel time from ELM PARK to any other station is 51.1243173432 minutes 
+261 The average travel time from HATTON CROSS to any other station is 51.7294095941 minutes 
+262 The average travel time from HARROW & WEALDSTONE to any other station is 52.0674169742 minutes 
+263 The average travel time from EPPING to any other station is 52.3556826568 minutes 
+264 The average travel time from HORNCHURCH to any other station is 53.5689667897 minutes 
+265 The average travel time from CHALFONT & LATIMER to any other station is 54.7778228782 minutes 
+266 The average travel time from UPMINSTER BRIDGE to any other station is 55.5394464945 minutes 
+267 The average travel time from HEATHROW 123 to any other station is 56.1267158672 minutes 
+268 The average travel time from UPMINSTER to any other station is 57.5246863469 minutes 
+269 The average travel time from AMERSHAM to any other station is 58.748302583 minutes 
+270 The average travel time from CHESHAM to any other station is 63.3540590406 minutes 
